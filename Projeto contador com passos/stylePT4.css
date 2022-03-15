@@ -1,0 +1,25 @@
+body {
+    background: cornsilk;
+    font: normal 15px Arial;
+    margin: auto;
+}
+header {
+    text-transform: uppercase;
+    font: normal 25px Arial;
+    text-align: center;
+}
+section {
+    font: normal 15px Arial;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+    padding: 100px;
+    width: 200px;
+    box-shadow: 5px 5px 10px black;
+
+}
+footer {
+    font: normal 20px Arial;
+    font-family: cursive;
+    text-align: center;
+}

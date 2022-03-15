@@ -1,0 +1,23 @@
+body {
+    background-color: goldenrod;
+    font: normal 15px Arial;
+    margin: auto;
+}
+header {
+    text-transform: capitalize;
+    text-align: center;
+}
+section {
+    font: normal 15px Arial;
+    background: white;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    box-shadow: 5px 5px 10px black;
+}
+footer {
+    font: 10px normal Arial;
+    text-align: center;
+    font-family: sans-serif;
+}
